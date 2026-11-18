@@ -59,8 +59,8 @@ Adjusted Unit Price = Base Unit Price x (Actual Certified GCV (ARB) / {{GAR_BASE
 2. Buyer returns a signed copy of this offer along with an official Purchase Order (ICPO) and company profile before {{VALIDITY_DATE}}.
 3. Seller issues the draft Sales Contract and Proforma Invoice for Buyer's review.
 4. Both parties sign the Sales Contract.
-5. Buyer's bank issues the payment instrument ({{PAYMENT_TERMS}}) to Seller's bank within {{PAYMENT_DEADLINE_DAYS}} banking days of contract signing.
-6. Upon bank verification and vessel nomination acceptance, Seller proceeds with barge and vessel loading at {{PORT_OF_LOADING}}.
+5. Buyer settles payment by Telegraphic Transfer (T/T) via SWIFT MT103 in accordance with the agreed payment schedule ({{PAYMENT_TERMS}}).
+6. Seller proceeds with coal loading onto the barge at {{PORT_OF_LOADING}} within the agreed laycan and hands over the Certificate of Origin and other original shipping documents upon full settlement.
 
 This offer remains valid until {{VALIDITY_DATE}} and is subject to cargo unsold prior to receipt of Buyer's written confirmation.
 
