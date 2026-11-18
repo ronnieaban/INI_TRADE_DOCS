@@ -84,8 +84,8 @@ Upon completion of vessel loading, Seller will provide the following documents:
 1. Seller issues this signed Full Corporate Offer in response to Buyer's ICPO ({{RELATED_REF_NUMBER}}).
 2. Buyer countersigns and returns this FCO on or before {{VALIDITY_DATE}}.
 3. Within 3 banking days of receiving the countersigned FCO, Seller issues the final Sales Contract and Proforma Invoice.
-4. Both parties sign the Sales Contract, and Buyer's bank issues the payment instrument ({{PAYMENT_TERMS}}) to Seller's bank within {{PAYMENT_DEADLINE_DAYS}} banking days.
-5. Upon confirmation of the payment instrument by Seller's bank, Buyer nominates the vessel and Seller loads the cargo within the agreed laycan ({{SHIPMENT_SCHEDULE}}).
+4. Both parties sign the Sales Contract, and Buyer remits payment by Telegraphic Transfer (T/T) via SWIFT MT103 in accordance with the agreed payment terms ({{PAYMENT_TERMS}}).
+5. Seller loads the coal cargo onto the barge at {{PORT_OF_LOADING}} within the agreed laycan ({{SHIPMENT_SCHEDULE}}) and hands over the Certificate of Origin and other original shipping documents upon receipt of the 10% final balance.
 
 This Full Corporate Offer is valid until {{VALIDITY_DATE}}. Once countersigned by Buyer, it forms the basis for the formal Sales Contract governed by the laws of {{GOVERNING_LAW_JURISDICTION}}.
 
