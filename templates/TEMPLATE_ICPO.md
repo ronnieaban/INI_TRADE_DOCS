@@ -70,8 +70,8 @@ Payment under this order will be settled through our nominated bank account belo
 1. Buyer submits this signed ICPO to Seller.
 2. Seller issues the Full Corporate Offer (FCO) or draft Sales Contract and Proforma Invoice for signing.
 3. Both parties sign the Sales Contract and lodge it with their respective banks.
-4. Buyer's bank issues the agreed payment instrument ({{PAYMENT_TERMS}}) to Seller's nominated bank within {{PAYMENT_DEADLINE_DAYS}} banking days after contract signing.
-5. Buyer nominates the performing vessel within the agreed laycan, and Seller loads the cargo at {{PORT_OF_LOADING}}.
+4. Buyer settles payment by Telegraphic Transfer (T/T) via SWIFT MT103 in accordance with the agreed payment schedule ({{PAYMENT_TERMS}}).
+5. Buyer nominates the performing barge or vessel within the agreed laycan, and Seller loads the cargo at {{PORT_OF_LOADING}} and hands over the Certificate of Origin and other original shipping documents upon final balance settlement.
 
 Please proceed with the draft Sales Contract and Proforma Invoice at your earliest convenience.
 
